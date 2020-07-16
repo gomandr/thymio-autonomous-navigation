@@ -1,4 +1,4 @@
-# Basics of mobile robotics - Thymio Project
+# Basics of mobile robotics - Thymio Project - December 2019
 
 ### Students : Colomban Fussinger, André Gomes, Anthony Guinchard, Sylvain Pietropaolo
 
