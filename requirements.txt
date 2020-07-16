@@ -1,0 +1,7 @@
+numpy
+jupyter
+opencv-python
+imageio
+matplotlib
+scipy
+pyserial
