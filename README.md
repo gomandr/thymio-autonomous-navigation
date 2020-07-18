@@ -6,4 +6,5 @@ The goal of this project is to combine vision, path planning, local navigation a
 
 
 ### Video of the project
+![Demo](demo/demo.gif)
 https://www.youtube.com/watch?v=j_90MK3PXCc
